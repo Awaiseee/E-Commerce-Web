@@ -1,4 +1,4 @@
-                                                DazzleBay E-Commerce Platform 
+                                                              DazzleBay E-Commerce Platform 
 
 Overview:
 
