@@ -2,7 +2,7 @@
 
 Overview:
 
-DazzleBay is a sophisticated web-based e-commerce platform developed using Flask, HTML, CSS, Bootstrap, JavaScript, jQuery, and MongoDB. It offers users a convenient way to purchase a variety of products from watches and clothes to perfumes and more, all from the comfort of their homes.
+DazzleBay is an innovative web-based e-commerce platform developed using Flask, HTML, CSS, Bootstrap, JavaScript, jQuery, and MongoDB. It offers users a convenient way to purchase a variety of products from watches and clothes to perfumes and more, all from the comfort of their homes.
 
 Features:
 
